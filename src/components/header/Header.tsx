@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <Header1>
         <HeaderInner>
-            <Logo>SaulDesign</Logo>
+            <Logo>Sam Design</Logo>
             <Nav>
                 <ul>
                     <li><a href="#home">Home</a></li>
